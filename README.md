@@ -1,12 +1,10 @@
 # Hi, I'm Ibrahim Albadawi 👋
 
-## Data Analyst | Business Intelligence | Power BI
+## Data Analyst | Business Intelligence | Microsoft Certified PL-300
 
-Microsoft Certified Power BI Data Analyst with 5+ years of experience in data analysis, business intelligence, and performance reporting.
+Data Analyst with 5+ years of experience in **data analysis, business intelligence, KPI reporting, and dashboard development**.
 
-I specialize in transforming complex datasets into actionable insights, developing interactive dashboards, tracking KPIs, automating reporting processes, and supporting data-driven decision-making.
-
----
+I specialize in transforming complex business data into actionable insights using **Power BI, SQL, Python, Advanced Excel, DAX, and Power Query**, with a strong focus on executive dashboards, reporting automation, and data-driven decision-making.
 
 ## 🛠️ Skills
 
@@ -16,6 +14,7 @@ I specialize in transforming complex datasets into actionable insights, developi
 - Python
 - Advanced Excel
 - DAX
+- Power Query
 - Data Visualization
 - Interactive Dashboards
 - KPI Development & Performance Monitoring
@@ -23,6 +22,7 @@ I specialize in transforming complex datasets into actionable insights, developi
 ### Data Engineering & Automation
 - Data Cleaning & Validation
 - Data Integration
+- ETL
 - Web Scraping
 - n8n Automation
 - Reporting & Workflow Automation
@@ -32,7 +32,7 @@ I specialize in transforming complex datasets into actionable insights, developi
 - Cost & Profitability Analysis
 - Insight Generation
 - Workflow Optimization
-- Resource Planning
+- Sales & Performance Analysis
 - Process Improvement
 - Decision Support
 
@@ -51,7 +51,7 @@ My portfolio includes projects in:
 - 🔍 Data Cleaning & Exploration
 - ⚙️ Reporting & Workflow Automation
 
-### Featured Project
+### Featured Projects
 
 #### 📊 Adidas US Sales Performance Dashboard
 
@@ -69,7 +69,39 @@ An interactive sales analytics dashboard built to analyze Adidas US sales perfor
 🔗 [View Project Repository](https://github.com/ibrahimalbadawi92-star/adidas-us-sales-dashboard)
 
 🚀 [View Live Interactive Dashboard](https://ibrahimalbadawi92-star.github.io/adidas-us-sales-dashboard/)
+#### 📊 H1 2026 Executive Sales Dashboard
 
+A bilingual executive sales analytics dashboard designed to monitor sales performance, customer activity, trends, and key business KPIs for management decision-making.
+
+**Key Areas:**
+- Executive Sales Performance
+- KPI Monitoring
+- Sales Trend Analysis
+- Customer Performance Analysis
+- Business Insights
+- Interactive Filtering
+- Arabic & English Support
+
+🔗 [View Project Repository](https://github.com/ibrahimalbadawi92-star/h1-2026-executive-sales-dashboard)
+
+🚀 [View Live Interactive Dashboard](https://h1-2026-executive-sales-dashboard.streamlit.app/)
+#### 📊 Credit Sales & Receivables Dashboard
+
+A bilingual executive analytics dashboard for monitoring credit sales, customer receivables, sales returns, account status, and customer performance using synthetic portfolio data.
+
+**Key Areas:**
+- Credit Sales & Receivables Analysis
+- Gross & Net Sales KPIs
+- Outstanding Receivables Monitoring
+- Sales Returns Analysis
+- Customer Performance
+- Financial & Account Status Analysis
+- Interactive Filtering
+- Arabic & English Support
+
+🔗 [View Project Repository](https://github.com/ibrahimalbadawi92/credit-sales-receivables-dashboard)
+
+🚀 [View Live Interactive Dashboard](https://credit-sales-receivables-dashboard.streamlit.app)
 👉 Explore my repositories to view more projects as I continue expanding my data analytics portfolio.
 
 ---
