@@ -102,6 +102,7 @@ A bilingual executive analytics dashboard for monitoring credit sales, customer 
 🔗 [View Project Repository](https://github.com/ibrahimalbadawi92/credit-sales-receivables-dashboard)
 
 🚀 [View Live Interactive Dashboard](https://credit-sales-receivables-dashboard.streamlit.app)
+
 👉 Explore my repositories to view more projects as I continue expanding my data analytics portfolio.
 
 ---
