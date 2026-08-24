@@ -66,9 +66,9 @@ An interactive sales analytics dashboard built to analyze Adidas US sales perfor
 - Interactive Filtering
 - Business Insights
 
-🔗 [View Project Repository](https://github.com/ibrahimalbadawi92-star/adidas-us-sales-dashboard)
+🔗 [View Project Repository](https://github.com/ibrahimalbadawi92/adidas-us-sales-dashboard)
 
-🚀 [View Live Interactive Dashboard](https://ibrahimalbadawi92-star.github.io/adidas-us-sales-dashboard/)
+🚀 [View Live Interactive Dashboard](https://ibrahimalbadawi92.github.io/adidas-us-sales-dashboard/)
 #### 📊 H1 2026 Executive Sales Dashboard
 
 A bilingual executive sales analytics dashboard designed to monitor sales performance, customer activity, trends, and key business KPIs for management decision-making.
@@ -82,7 +82,7 @@ A bilingual executive sales analytics dashboard designed to monitor sales perfor
 - Interactive Filtering
 - Arabic & English Support
 
-🔗 [View Project Repository](https://github.com/ibrahimalbadawi92-star/h1-2026-executive-sales-dashboard)
+🔗 [View Project Repository](https://github.com/ibrahimalbadawi92/h1-2026-executive-sales-dashboard)
 
 🚀 [View Live Interactive Dashboard](https://h1-2026-executive-sales-dashboard.streamlit.app/)
 #### 📊 Credit Sales & Receivables Dashboard
