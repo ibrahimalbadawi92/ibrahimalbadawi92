@@ -102,6 +102,22 @@ A bilingual executive analytics dashboard for monitoring credit sales, customer 
 🔗 [View Project Repository](https://github.com/ibrahimalbadawi92/credit-sales-receivables-dashboard)
 
 🚀 [View Live Interactive Dashboard](https://credit-sales-receivables-dashboard.streamlit.app)
+#### 🎧 Salla Call Center Analysis Dashboard
+
+An interactive Power BI call center analytics dashboard designed to monitor operational performance, track key service KPIs, compare actual vs forecasted call volumes, and investigate performance results through drill-through root cause analysis.
+
+**Key Areas:**
+- Call Center Performance Analysis
+- KPI & Performance Monitoring
+- Total Calls & Handling Rate Analysis
+- Average Speed of Answer (ASA)
+- Abandon Rate Analysis
+- Actual vs Forecasted Calls
+- Bookmark-Based Filtering
+- Drill-Through Root Cause Analysis
+- Interactive Report Navigation
+
+🔗 [View Project Repository](https://github.com/ibrahimalbadawi92/salla-call-center-analysis)
 
 👉 Explore my repositories to view more projects as I continue expanding my data analytics portfolio.
 
