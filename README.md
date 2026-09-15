@@ -85,6 +85,25 @@ A bilingual executive sales analytics dashboard designed to monitor sales perfor
 🔗 [View Project Repository](https://github.com/ibrahimalbadawi92/h1-2026-executive-sales-dashboard)
 
 🚀 [View Live Interactive Dashboard](https://h1-2026-executive-sales-dashboard.streamlit.app/)
+#### 📊 Executive Financial & Accounting Analytics Dashboard
+
+A bilingual executive financial and accounting analytics dashboard built to analyze multi-year financial performance, sales, internal and external purchases, returns, VAT, supplier balances, profitability, and data quality using fully synthetic portfolio data.
+
+**Key Areas:**
+- Executive Financial Performance
+- Sales & Purchasing Analysis
+- Internal vs External Purchases
+- Profitability Analysis
+- Sales & Purchase Returns
+- VAT Analysis
+- Supplier Balances
+- Year-over-Year Analysis
+- Data Quality & Reconciliation
+- Arabic & English Support
+
+🔗 [View Project Repository](https://github.com/ibrahimalbadawi92/executive-financial-dashboard)
+
+🚀 [View Live Interactive Dashboard](https://executive-financial-dashboard.streamlit.app/)
 #### 📊 Credit Sales & Receivables Dashboard
 
 A bilingual executive analytics dashboard for monitoring credit sales, customer receivables, sales returns, account status, and customer performance using synthetic portfolio data.
