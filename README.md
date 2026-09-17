@@ -53,6 +53,23 @@ My portfolio includes projects in:
 
 ### Featured Projects
 
+#### 📊 Workshop Financial Performance Dashboard
+
+Bilingual financial analytics dashboard for profitability, expense drivers, year-over-year performance, break-even analysis, scenario analysis, and data quality monitoring using fully synthetic portfolio data.
+
+**Key Areas:**
+- Profitability & Expense Analysis
+- Cost Driver & P&L Movement Analysis
+- Year-over-Year Performance Comparison
+- Break-Even Analysis
+- What-If Scenario Modeling
+- Data Quality & Reconciliation
+- KPI Monitoring
+- Arabic & English Support
+
+🔗 [View Project Repository](https://github.com/ibrahimalbadawi92/workshop-financial-performance-dashboard)
+
+🚀 [View Live Interactive Dashboard](https://workshop-financial-performance-dashboard.streamlit.app/)
 #### 📊 Adidas US Sales Performance Dashboard
 
 An interactive sales analytics dashboard built to analyze Adidas US sales performance across retailers, regions, products, sales channels, and profitability metrics.
